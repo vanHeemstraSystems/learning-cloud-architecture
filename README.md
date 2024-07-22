@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+learning-cloud-architecture
+# Learning Cloud Architecture
 
-Based on "ABC" at https://www.abc.com/
+Based on "What is Cloud Architecture" at https://www.youtube.com/watch?v=33YPF2RKIrg
 
 ## 100 - Introduction
 
